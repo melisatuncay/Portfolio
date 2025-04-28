@@ -7,7 +7,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 # 📚 Table of Contents
 
-- Data Engineering
+- [Data Engineering](https://github.com/meljesus/data-engineering)
 - SQL
 - Python
 - Power BI
@@ -16,7 +16,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🎮 Video Games | Apr 2025 |Python, PostgreSQL, Jupyter Notebook | Designed, created, and deployed a custom data model for a video games data set using Python and PostgreSQL on Jupyter Notebook. |
+| 🎮 [Video Games](https://github.com/meljesus/data-engineering/tree/main/Video%20Games) | Apr 2025 |Python, PostgreSQL, Jupyter Notebook | Designed, created, and deployed a custom data model for a video games data set using Python and PostgreSQL on Jupyter Notebook. |
 
 
 # SQL
