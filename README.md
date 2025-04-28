@@ -10,7 +10,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 - Data Engineering
 - SQL
 - Python
-- Tableau
+- Power BI
 
 # Data Engineering
 
@@ -32,7 +32,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 |---|---|---|---|
 | 📺 TMDb Movie Analysis |   Data Wrangling & EDA | I analysed more than 10,000 TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie? | pandas, matplotlib |   
 
-# Tableau
+# Power BI
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
