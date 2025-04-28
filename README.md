@@ -16,7 +16,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🐶 Dog Adoption | Apr 2025 |Python, PostgreSQL, Jupyter Notebook | Designed, created, and deployed a custom data model for a dog adoption data set using Python and PostgreSQL on Jupyter Notebook. |
+| 🎮 Video Games | Apr 2025 |Python, PostgreSQL, Jupyter Notebook | Designed, created, and deployed a custom data model for a video games data set using Python and PostgreSQL on Jupyter Notebook. |
 
 
 # SQL
