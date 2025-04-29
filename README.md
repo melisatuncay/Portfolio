@@ -20,7 +20,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 | 📺 [Netflix Content Analysis](https://github.com/meljesus/Python/blob/main/netflix_content_analysis.ipynb) |   Data Wrangling & EDA |  Analyzed a Netflix dataset to uncover insights into content trends. The dataset included information such as title, genre, release year, country, duration, and more. Focus areas included data cleaning, wrangling, visualization, and identifying patterns in Netflix content.  | pandas, matplotlib/seaborn in Jupyter Notebook |   
 
 
-# Data Engineering
+# Data Wrangling
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
