@@ -7,10 +7,18 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 # 📚 Table of Contents
 
+- [Python](https://github.com/meljesus/Python)
 - [Data Engineering](https://github.com/meljesus/data-engineering)
 - SQL
-- [Python](https://github.com/meljesus/Python)
 - Power BI
+
+
+# Python
+
+| Project Link | Area | Project Description | Libraries |    
+|---|---|---|---|
+| 📺 [Netflix Content Analysis](https://github.com/meljesus/Python/blob/main/netflix_content_analysis.ipynb) |   Data Wrangling & EDA |  Analyzed a Netflix dataset to uncover insights into content trends. The dataset included information such as title, genre, release year, country, duration, and more. Focus areas included data cleaning, wrangling, visualization, and identifying patterns in Netflix content.  | pandas, matplotlib/seaborn in Jupyter Notebook |   
+
 
 # Data Engineering
 
@@ -26,15 +34,11 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 | X | Data analysis, data cleaning, data transformation | X | 
 
 
-# Python
 
-| Project Link | Area | Project Description | Libraries |    
-|---|---|---|---|
-| 📺 [Netflix Content Analysis](https://github.com/meljesus/Python/blob/main/netflix_content_analysis.ipynb) |   Data Wrangling & EDA |  Analyzed a Netflix dataset to uncover insights into content trends. The dataset included information such as title, genre, release year, country, duration, and more. Focus areas included data cleaning, wrangling, visualization, and identifying patterns in Netflix content.  | pandas, matplotlib/seaborn in Jupyter Notebook |   
 
 # Power BI
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 🦄 Maven Unicorn Challenge | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Dashboard](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
+| 🦄 Maven Unicorn Challenge | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Dashboard]() |
 
