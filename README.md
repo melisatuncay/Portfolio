@@ -9,7 +9,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 - [Data Engineering](https://github.com/meljesus/data-engineering)
 - SQL
-- Python
+- [Python](https://github.com/meljesus/Python)
 - Power BI
 
 # Data Engineering
@@ -30,7 +30,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 📺 TMDb Movie Analysis |   Data Wrangling & EDA | I analysed more than 10,000 TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie? | pandas, matplotlib |   
+| 📺 [Netflix Content Analysis](https://github.com/meljesus/Python/blob/main/netflix_content_analysis.ipynb) |   Data Wrangling & EDA |  Analyzed a Netflix dataset to uncover insights into content trends. The dataset included information such as title, genre, release year, country, duration, and more. Focus areas included data cleaning, wrangling, visualization, and identifying patterns in Netflix content.  | pandas, matplotlib/seaborn in Jupyter Notebook |   
 
 # Power BI
 
