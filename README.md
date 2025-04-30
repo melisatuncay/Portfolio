@@ -4,13 +4,12 @@
 Welcome to my portfolio! Here, I document a summary of my projects in the data field.
 
 
-
 # 📚 Table of Contents
 
 - [Python](#python)
 - [Data Wrangling](#data-wrangling)
-- SQL
 - [Power BI](#power-bi)
+- SQL
 
 
 # Python
@@ -22,9 +21,16 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 # Data Wrangling
 
-| Project Link | Completion Date | Tools | Project Description | 
+| Project Link  |  Project Description | Tools |
+|---|---|---|
+| 🎮 [Video Games](https://github.com/meljesus/data-engineering/tree/main/Video%20Games)  | Designed, created, and deployed a custom data model for a video games data set using Python and PostgreSQL on Jupyter Notebook. |Python, PostgreSQL, Jupyter Notebook |
+
+
+# Power BI
+
+| Project Link | Project Description | Dashboard Link |Tools |
 |---|---|---|---|
-| 🎮 [Video Games](https://github.com/meljesus/data-engineering/tree/main/Video%20Games) | Apr 2025 |Python, PostgreSQL, Jupyter Notebook | Designed, created, and deployed a custom data model for a video games data set using Python and PostgreSQL on Jupyter Notebook. |
+| 🍫 [Chocolate Sales](https://github.com/melisatuncay/Power-BI/blob/main/Chocolate-Sales.ipynb) | This project analyzes chocolate sales data across different countries, products, and sales representatives using Power BI. | [Dashboard](https://github.com/melisatuncay/Power-BI/blob/main/PowerBI_ChocolateSales.jpg) | Power BI, DAX, Power Query, Excel |
 
 
 # SQL
@@ -32,13 +38,3 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
 | X | Data analysis, data cleaning, data transformation | X | 
-
-
-
-
-# Power BI
-
-| Project Link | Project Description | Dashboard Link |
-|---|---|---|
-| 🦄 Maven Unicorn Challenge | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Dashboard]() |
-
