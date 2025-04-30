@@ -7,10 +7,10 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 # 📚 Table of Contents
 
-- [Python](https://github.com/meljesus/Python)
-- [Data Engineering](https://github.com/meljesus/data-engineering)
+- [Python](#python)
+- [Data Wrangling](#data-wrangling)
 - SQL
-- Power BI
+- [Power BI](#power-bi)
 
 
 # Python
