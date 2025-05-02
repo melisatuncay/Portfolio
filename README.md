@@ -23,7 +23,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 | Project Link  |  Project Description | Tools |
 |---|---|---|
-| 🎮 [Video Games](https://github.com/meljesus/data-engineering/tree/main/Video%20Games)  | Designed, created, and deployed a custom data model for a video games data set using Python and PostgreSQL on Jupyter Notebook. |Python, PostgreSQL, Jupyter Notebook |
+| 🎮 [Video Games](https://github.com/melisatuncay/Data-Wrangling/blob/main/Video%20Games/video_game_cleaning.ipynb)  | Designed, created, and deployed a custom data model for a video games data set using Python and PostgreSQL on Jupyter Notebook. |Python, PostgreSQL, Jupyter Notebook |
 
 
 # Power BI
