@@ -16,7 +16,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 📺 [Netflix Content Analysis](https://github.com/meljesus/Python/blob/main/netflix_content_analysis.ipynb) |   Data Wrangling & EDA |  Analyzed a Netflix dataset to uncover insights into content trends. The dataset included information such as title, genre, release year, country, duration, and more. Focus areas included data cleaning, wrangling, visualization, and identifying patterns in Netflix content.  | pandas, matplotlib/seaborn in Jupyter Notebook |   
+| 📺 [Netflix Content Analysis](https://github.com/meljesus/Python/blob/main/netflix_content_analysis.ipynb) |   Data Wrangling & EDA |  Analyzed a Netflix dataset to uncover insights into content trends. The dataset included information such as title, genre, release year, country, duration, and more. Focus areas included data cleaning, wrangling, visualization, and identifying patterns in Netflix content.  | pandas, matplotlib, seaborn in Jupyter Notebook |   
 
 
 # Data Wrangling
@@ -37,4 +37,4 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 | Project Link | Project Description | Tools | 
 |---|---|---|
-| 📱[Productivity-Pain](https://github.com/melisatuncay/Productivity-Pain/blob/main/Social_Media_Survey.ipynb) |  Explores how digital content pushing constant productivity affects Gen Z’s mental well-being, using survey data to highlight anxiety and confusion caused by social media pressure. | Google Forms, Excel, Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook | 
+| 📱[The Pangs of Productivity](https://github.com/melisatuncay/Productivity-Pain/blob/main/Social_Media_Survey.ipynb) |  Explores how digital content pushing constant productivity affects Gen Z’s mental well-being, using survey data to highlight anxiety and confusion caused by social media pressure. | Google Forms, Excel, Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook | 
