@@ -9,7 +9,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 - [Python](#python)
 - [Data Wrangling](#data-wrangling)
 - [Power BI](#power-bi)
-- SQL
+- [Research](#research)
 
 
 # Python
@@ -33,8 +33,8 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 | 🍫 [Chocolate Sales](https://github.com/melisatuncay/Power-BI/blob/main/Chocolate-Sales.ipynb) | This project analyzes chocolate sales data across different countries, products, and sales representatives using Power BI. | [Dashboard](https://github.com/melisatuncay/Power-BI/blob/main/PowerBI_ChocolateSales.jpg) | Power BI, DAX, Power Query, Excel |
 
 
-# SQL
+# Research
 
-| Project Link | Area of Analysis | Project Description | 
+| Project Link | Project Description | Tools | 
 |---|---|---|
-| X | Data analysis, data cleaning, data transformation | X | 
+| 📱[Productivity-Pain](https://github.com/melisatuncay/Productivity-Pain/blob/main/Social_Media_Survey.ipynb) |  Explores how digital content pushing constant productivity affects Gen Z’s mental well-being, using survey data to highlight anxiety and confusion caused by social media pressure. | Google Forms, Excel, Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook | 
